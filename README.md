@@ -1,5 +1,10 @@
 ### 🚀 AI Sales Automation System (Local MVP)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
+
+
 A local AI-powered Sales Assistant built using Python, Streamlit, SQLite, and on-device LLMs to automate CRM structuring and follow-up generation from sales conversations.
 
 This Phase-1 MVP focuses on fully local processing with modular production-style architecture.
@@ -137,3 +142,4 @@ All without using any cloud APIs.
 
 
 ### Built with ❤️ by Badal Patel
+
