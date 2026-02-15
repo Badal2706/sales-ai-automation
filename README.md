@@ -101,7 +101,7 @@ All without using any cloud APIs.
 
 **1️⃣ Clone repository**
 
-    git clone https://github.com/yourusername/sales-ai-automation.git
+    gh repo clone Badal2706/sales-ai-automation
     cd sales-ai-automation
 
 **2️⃣ Create virtual environment**
@@ -134,5 +134,6 @@ All without using any cloud APIs.
 - Advanced lead analytics dashboard
 - Multi-user authentication
 -Automated email sending
+
 
 ### Built with ❤️ by Badal Patel
